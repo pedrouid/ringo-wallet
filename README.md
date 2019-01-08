@@ -4,10 +4,10 @@
   <br>
 </h1>
 <h3 align="center">
-Full Decentralized Multy Crypto Wallet.
+Full Decentralized Multi Crypto Wallet.
 </h3>
 
-*:star: Made by [Wannbit Inc](https://www.wannabit.io/)*.
+*:star: Made by [Wannabit Inc](https://www.wannabit.io/)*.
 
 # About
 
